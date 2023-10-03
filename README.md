@@ -1,5 +1,2 @@
-Final Project : Kredit System 
-
-Group member : 1. Bayu Putra L. 
-               2. Hammam
-               3. Ridho Anfa'al
+Final Project 1st semester : Kredit System 
+Group member : Bayu, Hammam, Ridho
