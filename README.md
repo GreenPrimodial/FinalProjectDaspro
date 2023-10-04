@@ -1,3 +1,3 @@
-Final Project 1st semester : Kredit System 
+Final Project 1st semester
 
 Group member : Bayu, Hammam, Ridho
